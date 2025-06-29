@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betrand</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Betrand25/Betrand25/main/mario.gif" alt="chill mario banner" />
+  <img src="https://raw.githubusercontent.com/Betrand25/Betrand25/main/mario2.gif" alt="chill mario banner" />
 </p>
 
 <h3 align="center">A software engineer from Indonesia, passionate about building mobile and web applications.</h3>
